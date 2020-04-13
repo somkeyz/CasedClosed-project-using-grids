@@ -115,6 +115,11 @@
 
 @media(max-width: 600px){
   
+  /* body */
+  body{
+    font-size: 0.8rem;
+  }
+
   /* navbar-styling */
   #navbar .logo_img{
     width: 70px;
@@ -151,7 +156,7 @@
     grid-template-columns: 1fr;
   }
   #navbar ul{
-    justify-self: center;
+    justify-self: auto;
   }
   #navbar .logo_img{
     justify-self: center;

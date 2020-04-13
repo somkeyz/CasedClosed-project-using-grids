@@ -16,6 +16,7 @@ body{
   background-color: var(--body-color);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5rem;
+  font-size: 1rem;
 }
 
 a{
@@ -347,6 +348,7 @@ width: 12%;
   font-size: 2rem;
 }
 .about-uz p{
+  text-align: justify;
   line-height: 2rem;
   margin-bottom: 1.5rem;
 }
@@ -361,6 +363,7 @@ width: 12%;
   font-size: 2rem;
 }
 .what-we-do p{
+  text-align: justify;
   line-height: 2rem;
   margin-bottom: 1.5rem;
 }
